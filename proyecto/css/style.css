@@ -1,0 +1,76 @@
+.comercio .table{
+  color: #28a745;
+}
+
+.about{
+  color: #28a745;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.about h3{
+  font-size: 42px;
+}
+
+.about p{
+  color: black;
+  font-size: 22px;
+  justify-content: center;
+}
+
+.about .table td, .table th{
+  color: black;
+  font-size: 14px;
+}
+
+form .btn-primary{
+  background-color:#28a745;
+  border-color:#28a745;
+  justify-content: right;
+}
+
+.bg-light{
+  background: #000000!important
+}
+
+.team-container{
+  justify-content: center;
+}
+
+.fas{
+  font-size: 35px;
+  text-align:center;
+  color:#696969;
+}
+
+.iconos tr th{
+  text-align: center;
+  margin-top:4px;
+  color:#696969;
+}
+
+.disenito{
+  vertical-align: middle;
+
+}
+
+.fa-linkedin{
+  font-size: 15px;
+}
+
+
+.navbar-brand {
+  color: white !important;
+
+}
+
+.nav-black{
+  background-color: black;
+}
+
+
+.img-fluid{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
